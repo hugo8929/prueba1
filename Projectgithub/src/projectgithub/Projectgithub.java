@@ -17,7 +17,8 @@ public class Projectgithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "hola mundo");  // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "hola mundo"); 
+        JOptionPane.showMessageDialog(null, "hola niños");// TODO code application logic here
     }
     
 }
